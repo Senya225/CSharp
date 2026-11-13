@@ -1,0 +1,14 @@
+C:\Users\User101-18\Desktop\CSharp-main\src\MemoryLifecycle\obj\Release\net8.0\MemoryLifecycle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User101-18\Desktop\CSharp-main\src\MemoryLifecycle\obj\Release\net8.0\MemoryLifecycle.AssemblyInfoInputs.cache
+C:\Users\User101-18\Desktop\CSharp-main\src\MemoryLifecycle\obj\Release\net8.0\MemoryLifecycle.AssemblyInfo.cs
+C:\Users\User101-18\Desktop\CSharp-main\src\MemoryLifecycle\obj\Release\net8.0\MemoryLifecycle.csproj.CoreCompileInputs.cache
+C:\Users\User101-18\Desktop\CSharp-main\src\MemoryLifecycle\bin\Release\net8.0\MemoryLifecycle.exe
+C:\Users\User101-18\Desktop\CSharp-main\src\MemoryLifecycle\bin\Release\net8.0\MemoryLifecycle.deps.json
+C:\Users\User101-18\Desktop\CSharp-main\src\MemoryLifecycle\bin\Release\net8.0\MemoryLifecycle.runtimeconfig.json
+C:\Users\User101-18\Desktop\CSharp-main\src\MemoryLifecycle\bin\Release\net8.0\MemoryLifecycle.dll
+C:\Users\User101-18\Desktop\CSharp-main\src\MemoryLifecycle\bin\Release\net8.0\MemoryLifecycle.pdb
+C:\Users\User101-18\Desktop\CSharp-main\src\MemoryLifecycle\obj\Release\net8.0\MemoryLifecycle.dll
+C:\Users\User101-18\Desktop\CSharp-main\src\MemoryLifecycle\obj\Release\net8.0\refint\MemoryLifecycle.dll
+C:\Users\User101-18\Desktop\CSharp-main\src\MemoryLifecycle\obj\Release\net8.0\MemoryLifecycle.pdb
+C:\Users\User101-18\Desktop\CSharp-main\src\MemoryLifecycle\obj\Release\net8.0\MemoryLifecycle.genruntimeconfig.cache
+C:\Users\User101-18\Desktop\CSharp-main\src\MemoryLifecycle\obj\Release\net8.0\ref\MemoryLifecycle.dll

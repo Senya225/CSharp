@@ -1,0 +1,14 @@
+namespace MemoryLifecycle.Gc;
+
+public static class GcObserver
+{
+    public static void PrintMemoryInfo(string label)
+    {
+        var info = GC.GetGCMemoryInfo();
+        Console.WriteLine($"{label}:");
+        Console.WriteLine($"  HeapSizeBytes: {info.HeapSizeBytes / 1024d / 1024d:F2} MB");
+        Console.WriteLine($"  TotalCommittedBytes: {info.TotalCommittedBytes / 1024d / 1024d:F2} MB");
+        Console.WriteLine($"  MemoryLoadBytes: {info.MemoryLoadBytes / 1024d / 1024d:F2} MB");
+        Console.WriteLine($"  PauseTimePercentage: {info.PauseTimePercentage:F2} %");
+    }
+}
