@@ -1,14 +1,16 @@
 using System;
+using System.Threading.Tasks;
 using MemoryLifecycle.Demos;
 
 namespace MemoryLifecycle
 {
     class Program
     {
-        static void Main(string[] args)
+        static async Task Main(string[] args)
         {
-            string logPath = "test_log.txt"; 
-            ResourceDemos.RunLogFileDemo(logPath);
+            Console.WriteLine("=== КТ №43. Паттерн Dispose и IAsyncDisposable ===\n");
+            
+            await DisposeDemos.RunAllDemosAsync();
             
             Console.WriteLine("\nНажмите любую клавишу для выхода...");
             Console.ReadKey();
